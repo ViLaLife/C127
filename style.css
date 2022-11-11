@@ -1,0 +1,45 @@
+.note{
+    font-size: medium;
+    color: antiquewhite;
+}
+h3{
+    font-family:cursive ;
+}
+.heading{
+    margin-top:0px ;
+    border-style:double;
+    border-width: 10px;
+    border-color: rgb(255, 254, 253);
+    border-radius: 50px;
+    font-size: large;
+}
+body{
+    background-size: cover;
+}
+
+.speed{
+    float: left;
+}
+.imgs{
+width: 200px;
+border-radius: 100px;
+}
+.vol{
+    float: right;
+}
+
+.play{
+    width: 150px;
+    font-size: 30px;
+}
+
+canvas{
+    border: white 10px solid;
+    border-radius: 25px;
+}
+
+footer{
+    margin-bottom: 0px;
+    font-size: 20px;
+    color: azure;
+}
